@@ -7,8 +7,6 @@
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-<br>
-
 
 ### 😆 主页浏览量
 <div align="center">
